@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\GitHub\Interface-Sample-1\bin\Debug\netcoreapp3.0\Interface-Sample-1.exe
+C:\Users\admin\Documents\GitHub\Interface-Sample-1\bin\Debug\netcoreapp3.0\Interface-Sample-1.deps.json
+C:\Users\admin\Documents\GitHub\Interface-Sample-1\bin\Debug\netcoreapp3.0\Interface-Sample-1.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\Interface-Sample-1\bin\Debug\netcoreapp3.0\Interface-Sample-1.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\Interface-Sample-1\bin\Debug\netcoreapp3.0\Interface-Sample-1.dll
+C:\Users\admin\Documents\GitHub\Interface-Sample-1\bin\Debug\netcoreapp3.0\Interface-Sample-1.pdb
+C:\Users\admin\Documents\GitHub\Interface-Sample-1\obj\Debug\netcoreapp3.0\Interface-Sample-1.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Interface-Sample-1\obj\Debug\netcoreapp3.0\Interface-Sample-1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Interface-Sample-1\obj\Debug\netcoreapp3.0\Interface-Sample-1.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\Interface-Sample-1\obj\Debug\netcoreapp3.0\Interface-Sample-1.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\Interface-Sample-1\obj\Debug\netcoreapp3.0\Interface-Sample-1.dll
+C:\Users\admin\Documents\GitHub\Interface-Sample-1\obj\Debug\netcoreapp3.0\Interface-Sample-1.pdb
